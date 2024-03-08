@@ -1,1 +1,1 @@
-# The-Stock-Predictor
+# The-Stock-Trend-Predictor
